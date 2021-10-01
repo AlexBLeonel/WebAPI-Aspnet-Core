@@ -1,0 +1,8 @@
+C:\REPOSITORIO\Outros\Cursos\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp3.1\Alura.WebAPI.WebApp.csproj.AssemblyReference.cache
+C:\REPOSITORIO\Outros\Cursos\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp3.1\Alura.WebAPI.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIO\Outros\Cursos\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp3.1\Alura.WebAPI.WebApp.AssemblyInfoInputs.cache
+C:\REPOSITORIO\Outros\Cursos\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp3.1\Alura.WebAPI.WebApp.AssemblyInfo.cs
+C:\REPOSITORIO\Outros\Cursos\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp3.1\Alura.WebAPI.WebApp.csproj.CoreCompileInputs.cache
+C:\REPOSITORIO\Outros\Cursos\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp3.1\Alura.WebAPI.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\REPOSITORIO\Outros\Cursos\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp3.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cache
+C:\REPOSITORIO\Outros\Cursos\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp3.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cs
